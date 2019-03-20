@@ -28,7 +28,11 @@ choco install -y docker-toolbox
 choco install -y docker-machine
 
 choco install -y docker-desktop
- 
+
+choco install -y putty.install
+
+
+choco install -y itunes
 
 
 cinst GoogleChrome
@@ -38,3 +42,5 @@ cinst Firefox
 cinst githubforwindows
 
 cinst iTunes
+
+
